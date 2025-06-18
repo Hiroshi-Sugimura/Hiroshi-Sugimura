@@ -39,25 +39,25 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
+### 📱  **Contributions**
 
-<img src="https://skillicons.dev/icons?i=ios" />
+<img src="https://skillicons.dev/icons?i=npm,apple,windows" />
 
 ### 🔧  **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=xcode,vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,arduino,emacs,git,github,postman" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,sequelize" />
 
 
 ### 💻  **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=c/c++,swift,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=electron,nodejs,swift,python,c,cpp,js,html,css" />
 
 </td>
 </tr>
