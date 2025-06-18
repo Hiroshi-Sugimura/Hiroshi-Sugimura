@@ -14,25 +14,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm User!**
-🚀 **Private Programmer** passionate about mobile development  
+### 👋 **Hi, I'm Private Programmer**
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building beautiful mobile applications  
 ☕ **Powered by:** Coffee and curiosity  
 🎯 **Goal:** Creating amazing user experiences  
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -54,46 +41,28 @@
 
 ### 📱  **Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### ☁️  **Backend as a Service (BaaS)**
-
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=ios" />
 
 ### 🔧  **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=xcode,vscode,git,github,postman" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
 
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-### 🎨  **Design**
-
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 
 ### 💻  **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=c/c++,swift,python,js,html,css" />
 
 </td>
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
-
-## 💭 **Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
