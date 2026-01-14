@@ -16,10 +16,10 @@
 
 ### 👋 **Hi, I'm Hiroshi Sugimura**
 
-🌍 **Location:** Japan 🇯🇵
-💼 **Focus:** Building beautiful mobile applications & Smart Home Integrations
-☕ **Powered by:** Coffee and curiosity
-🎯 **Goal:** Creating amazing user experiences
+- 🌍 **Location:** Japan 🇯🇵
+- 💼 **Focus:** Building beautiful mobile applications & Smart Home Integrations
+- ☕ **Powered by:** Coffee and curiosity
+- 🎯 **Goal:** Creating amazing user experiences
 
 </div>
 
