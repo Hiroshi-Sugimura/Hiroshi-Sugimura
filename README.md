@@ -27,12 +27,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=tokyonight&count_private=true">
-    <img src="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=flat&count_private=true" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=flat&count_private=true&include_all_commits=true" alt="GitHub Stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hiroshi-Sugimura&theme=tokyonight&border_radius=10&hide_current_streak=true&hide_longest_streak=true">
-    <img src="https://streak-stats.demolab.com/?user=Hiroshi-Sugimura&theme=flat&border_radius=10&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Hiroshi-Sugimura&layout=compact&theme=tokyonight">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hiroshi-Sugimura&layout=compact&theme=flat" alt="Top Languages">
   </picture>
 </div>
 
