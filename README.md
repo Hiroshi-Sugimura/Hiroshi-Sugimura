@@ -30,10 +30,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=tokyonight&count_private=true">
     <img src="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=flat&count_private=true" alt="GitHub Stats">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hiroshi-Sugimura&theme=tokyonight&border_radius=10">
-    <img src="https://streak-stats.demolab.com/?user=Hiroshi-Sugimura&theme=flat&border_radius=10" alt="GitHub Streak">
-  </picture>
 </div>
 
 <div align="center">
