@@ -16,10 +16,10 @@
 
 ### 👋 **Hi, I'm Hiroshi Sugimura**
 
-- 🌍 **Location:** Japan 🇯🇵
-- 💼 **Focus:** Building beautiful mobile applications & Smart Home Integrations
-- ☕ **Powered by:** Coffee and curiosity
-- 🎯 **Goal:** Creating amazing user experiences
+- 🌍 **Location:** Japan 🇯🇵 / 日本 🇯🇵
+- 💼 **Focus:** Building beautiful mobile applications & Smart Home Integrations / 美しいモバイルアプリとスマートホーム統合の開発
+- ☕ **Powered by:** Coffee and curiosity / コーヒーと好奇心
+- 🎯 **Goal:** Creating amazing user experiences / 素晴らしいユーザー体験の創造
 
 </div>
 
@@ -27,12 +27,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=tokyonight&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=flat&count_private=true" alt="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=tokyonight&count_private=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=Hiroshi-Sugimura&show_icons=true&theme=flat&count_private=true" alt="GitHub Stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Hiroshi-Sugimura&theme=tokyonight&border_radius=10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiroshi-Sugimura&theme=flat&border_radius=10" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Hiroshi-Sugimura&theme=tokyonight&border_radius=10">
+    <img src="https://streak-stats.demolab.com/?user=Hiroshi-Sugimura&theme=flat&border_radius=10" alt="GitHub Streak">
   </picture>
 </div>
 
@@ -74,4 +74,5 @@
   **⭐ From [Hiroshi-Sugimura](https://github.com/Hiroshi-Sugimura) with ❤️**
 
   *"Building the future of smart spaces! 🏠 ✨"*
+  *「スマートスペースの未来を創る！ 🏠 ✨」*
 </div>
